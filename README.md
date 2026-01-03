@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 💫 About Me
 
@@ -113,7 +113,7 @@ const tisa = {
 
 ### 🌟 What I'm Passionate About
 
-<img align="right" alt="Girl Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🚀 Building **scalable** and **responsive** web applications
 - 💡 Creating **intuitive** user experiences with React
