@@ -44,7 +44,7 @@ const tisa = {
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,materialui,figma" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,figma" />
 </p>
 
 ### Backend Development
@@ -54,7 +54,7 @@ const tisa = {
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,webpack,vite,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,vercel" />
 </p>
 
 ### Currently Learning
