@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 ### 💫 About Me
 
@@ -32,38 +32,37 @@ const tisa = {
     funFact: "I turn coffee into code ☕➡️💻",
     motto: "Code. Debug. Repeat. 🔁"
 };
- ---
+```
+
+<br clear="right"/>
+
+---
+
 <div align="center">
+
 ## 🛠️ Tech Arsenal & Expertise
+
 ### Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,materialui,figma" />
 </p>
+
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,jwt" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
 </p>
+
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,webpack,babel,vite,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,webpack,vite,vercel" />
 </p>
+
 ### Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,aws,graphql" />
 </p>
+
 </div>
----
-
-<!-- <div align="center">
-
-### 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tisapatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5&text_color=c9d1d9&ring_color=9745F5" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisapatel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tisapatel&theme=tokyonight&hide_border=true&background=0D1117&stroke=9745F5&ring=9745F5&fire=FF6B6B&currStreakLabel=9745F5&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
-</div> -->
 
 ---
 
@@ -114,7 +113,7 @@ const tisa = {
 
 ### 🌟 What I'm Passionate About
 
-<img align="right" alt="Girl Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Girl Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🚀 Building **scalable** and **responsive** web applications
 - 💡 Creating **intuitive** user experiences with React
