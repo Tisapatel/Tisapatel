@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tisa%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=9745F5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Full+Stack+Developer+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=9745F5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Devloper+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
