@@ -18,8 +18,8 @@
 const developer = {
     name: "Tisa Patel",
     location: "Navsari, Gujarat 📍",
-    education: "Computer Science Graduate 🎓",
-    currentRole: "Software Developer 💼",
+    education: "Bachelor Of Vocation Software Development 🎓",
+    currentRole: "MERN Stack Developer 💼",
     
     techStack: {
         frontend: ["React ⚛️", "JavaScript", "HTML5", "CSS3"],
@@ -29,7 +29,7 @@ const developer = {
     },
     
     passion: "Building Beautiful Web Apps ✨",
-    funFact: "I turn coffee into code ☕➡️💻",
+    funFact: "I turn Chai into code ☕➡️💻",
     motto: "Code. Debug. Repeat. 🔁",
     
     currentlyDoing: () => {
