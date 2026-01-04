@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tisa%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=200&section=header&text=Tisa%20Patel&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=9745F5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F2E6EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Software+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -10,34 +10,25 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5082ceadfa25e558bbb83/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386235663537393463363763313661633237393437643966383464312e676966">
 
 ### 💫 About Me
 
 ```javascript
-const tisa = {
-    location: "Navsari, Gujarat 📍",
-    education: "Computer Science Graduate 🎓",
-    currentRole: "Software Developer 💼",
-    passion: "Building Beautiful Web Apps ✨",
+const developer = {
+    name: "Tisa Patel",
+    location: "Gujarat, India 📍",
+    role: "Software Developer",
+    passion: "Creating Beautiful Web Experiences",
     
-    techStack: {
-        frontend: ["React ⚛️", "JavaScript", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MongoDB"],
-        styling: ["Tailwind CSS", "Bootstrap"]
-    },
+    code: ["JavaScript", "React", "Node.js", "MongoDB"],
+    tools: ["VS Code", "Git", "Figma", "Postman"],
+    architecture: ["MERN Stack", "REST APIs", "Responsive Design"],
     
-    currentlyLearning: "Advanced React Patterns 📚",
-    funFact: "I turn coffee into code ☕➡️💻",
-    motto: "Code. Debug. Repeat. 🔁",
-    
-    getStatus: function() {
-        return "Ready to build amazing things! 🚀";
-    }
+    challenge: "Building scalable applications",
+    currentFocus: "React & Modern Web Development",
+    funFact: "Debugging is my superpower 🦸‍♀️"
 };
-
-console.log(tisa.getStatus());
 ```
 
 <br clear="right"/>
@@ -46,31 +37,26 @@ console.log(tisa.getStatus());
 
 <div align="center">
 
-## 🛠️ Tech Arsenal & Expertise
+## 🔥 Tech Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,figma" />
-</p>
+<br><br>
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,vercel" />
-</p>
-
-### Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,aws,graphql" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
 
 </div>
 
@@ -78,9 +64,12 @@ console.log(tisa.getStatus());
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tisapatel&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tisapatel&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=977DFF&icon_color=977DFF&text_color=F2E6EE" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tisapatel&theme=midnight-purple&hide_border=true&background=0D1117&ring=977DFF&fire=FFCCF2&currStreakLabel=F2E6EE" alt="GitHub Streak"/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisapatel&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=977DFF&text_color=F2E6EE&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -88,68 +77,64 @@ console.log(tisa.getStatus());
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tisapatel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tisapatel&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisapatel&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="45%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tisapatel&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 
 </div>
 
 ---
 
-### 📈 Contribution Journey
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisapatel&bg_color=0d1117&color=9745f5&line=9745f5&point=ff6b6b&area=true&hide_border=true&custom_title=Tisa's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisapatel&custom_title=Tisa's%20Activity%20Graph&bg_color=0D1117&color=977DFF&line=977DFF&point=FFCCF2&area_color=977DFF&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🎯 Current Focus
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+## 🎯 What I'm Working On
 
 <table>
 <tr>
-<td align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
-<br><b>React Development</b>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80"><br>
+<strong>Building Projects</strong>
 </td>
-<td align="center">
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50">
-<br><b>Building Projects</b>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"><br>
+<strong>React Mastery</strong>
 </td>
-<td align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50">
-<br><b>Learning New Tech</b>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"><br>
+<strong>Learning Daily</strong>
 </td>
-<td align="center">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
-<br><b>Open Source</b>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"><br>
+<strong>Collaborating</strong>
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-
 </div>
 
 ---
 
-### 🌟 What I'm Passionate About
+<img align="right" alt="Coding Animation" width="380" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+### ✨ What Drives Me
 
-- 🚀 Building **scalable** and **responsive** web applications
-- 💡 Creating **intuitive** user experiences with React
-- 🎨 Combining **functionality** with **beautiful design**
-- 📚 Constantly **learning** and **growing** as a developer
-- 🤝 Contributing to **open source** projects
-- 💻 Writing **clean** and **maintainable** code
-- ⚡ Exploring the latest **web technologies**
-- 🌈 Making the web more **accessible** and **inclusive**
+🚀 Building responsive & scalable web applications  
+💡 Creating seamless user experiences  
+🎨 Blending design with functionality  
+📚 Continuous learning & growth  
+💻 Writing clean, maintainable code  
+⚡ Exploring cutting-edge technologies  
+🌟 Contributing to open source  
 
 <br clear="right"/>
 
@@ -157,61 +142,30 @@ console.log(tisa.getStatus());
 
 <div align="center">
 
-## 💼 Featured Projects
-
-<a href="https://github.com/Tisapatel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tisapatel&repo=your-repo-name&theme=radical" />
-</a>
-<a href="https://github.com/Tisapatel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tisapatel&repo=your-repo-name&theme=radical" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tisapatel/Tisapatel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tisapatel/Tisapatel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tisapatel/Tisapatel/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-### 🌐 Let's Connect!
-
-<div align="center">
+## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/patel-tisa-003b512bb/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Tisapatel">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:tisapatel@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### 💜 "First, solve the problem. Then, write the code." - John Johnson
+<br>
+
+### 💜 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tisapatel&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Tisapatel?style=for-the-badge&color=blueviolet)](https://github.com/Tisapatel)
+![Profile Views](https://komarev.com/ghpvc/?username=Tisapatel&label=Profile%20Views&color=977DFF&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Tisapatel?style=for-the-badge&color=977DFF&logo=github)](https://github.com/Tisapatel)
 
 </div>
 
@@ -219,12 +173,12 @@ console.log(tisa.getStatus());
 
 <div align="center">
 
-### 🎮 When I'm Not Coding...
+### 🎨 When Not Coding
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
 
 ```
-☕ Drinking Coffee  |  📚 Reading Tech Blogs  |  🎵 Listening to Music  |  🌱 Learning Something New
+☕ Coffee Breaks  |  📖 Reading Tech Blogs  |  🎵 Music  |  🌱 Exploring New Tech
 ```
 
 </div>
@@ -235,16 +189,18 @@ console.log(tisa.getStatus());
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### ⭐ Don't forget to star my repositories if you find them interesting! ⭐
+### ⭐ If you find my work interesting, don't forget to star! ⭐
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+<br>
 
-**Made with 💜 by Tisa Patel**
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+**Crafted with 💜 by Tisa Patel**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=120&section=footer"/>
