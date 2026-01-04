@@ -2,23 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12,18&height=200&section=header&text=Tisa%20Patel&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Software+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Stranger+Things+Fan+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Software+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
----
-
-## 🔥 Stranger Things Inspired - Skills Following Me! 🔥
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
-
-### 👩‍💻 ME → ⚛️ React → 📗 Node.js → JS JavaScript → 🎨 CSS → 🍃 MongoDB → ⚡ Express
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 
 </div>
 
@@ -45,7 +31,6 @@ const developer = {
     passion: "Building Beautiful Web Apps ✨",
     funFact: "I turn Chai into code ☕➡️💻",
     motto: "Code. Debug. Repeat. 🔁",
-    strangerThingsVibe: "Leading my skills like Steve! 🔦",
     
     currentlyDoing: () => {
         return "Creating amazing digital experiences! 🚀";
@@ -59,11 +44,11 @@ const developer = {
 
 <div align="center">
 
-## ⚡ Skills from the Upside Down ⚡
+## 🛠️ Tech Arsenal & Expertise
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<br>
 
 ### Frontend Development
 <p>
@@ -84,8 +69,6 @@ const developer = {
 <p>
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,aws,graphql&theme=dark" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
 
@@ -159,38 +142,6 @@ const developer = {
 
 ---
 
-<div align="center">
-
-## 🔦 Walking Through Code Like Steve & The Party 🔦
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600">
-
-### My Tech Stack Follows Me Everywhere! ⚡
-
-```
-👩‍💻 TISA (Leader)
-    ↓
-⚛️ React (Always by my side)
-    ↓
-📗 Node.js (Backend Buddy)
-    ↓
-⚡ Express.js (Fast & Reliable)
-    ↓
-🍃 MongoDB (Data Guardian)
-    ↓
-🎨 Tailwind CSS (Style Master)
-    ↓
-💎 Redux (State Manager)
-    ↓
-🚀 Building Amazing Apps Together!
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600">
-
-</div>
-
----
-
 <img align="right" alt="Girl Coding" width="380" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 ### 🌟 What I'm Passionate About
@@ -203,7 +154,6 @@ const developer = {
 - 💻 Writing **clean** and **maintainable** code
 - ⚡ Exploring the latest **web technologies**
 - 🌈 Making the web more **accessible**
-- 🔦 Leading my tech stack like Steve leads the party!
 
 <br clear="right"/>
 
@@ -268,8 +218,6 @@ const developer = {
 
 ### ⭐ Star my repositories if you find them interesting! ⭐
 
-### 🔦 *"In the world of code, we stick together like the Stranger Things crew!"* 🔦
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
@@ -277,8 +225,6 @@ const developer = {
 **Made with 💙 by Tisa Patel**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
 
 </div>
 
