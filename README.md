@@ -203,7 +203,7 @@ const developer = {
 <br>
 
 ```
-☕ Drinking Coffee  |  📚 Reading Tech Blogs  |  🎵 Listening to Music  |  🌱 Learning Something New
+🎮 Gaming  |  🏀 Outdoor & Indoor Sports  |  ✈️ Traveling  |  📚 Tech Exploration  |  🎬 Watching Movies / Web Series  |  🌱 Learning New Skills
 ```
 
 </div>
