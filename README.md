@@ -52,22 +52,22 @@ const developer = {
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,figma&theme=dark&perline=8" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark&perline=4" />
 </p>
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,vercel&theme=dark&perline=6" />
 </p>
 
 ### Exploring Now
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,aws,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,aws,graphql&theme=dark&perline=5" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
@@ -90,10 +90,10 @@ const developer = {
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tisapatel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tisapatel&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF006E&sideLabels=00D9FF&border_radius=10" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tisapatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tisapatel&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF006E&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF006E&sideLabels=00D9FF&border_radius=10" alt="GitHub Streak"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisapatel&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&layout=compact&langs_count=8&border_radius=10&card_width=445" alt="Top Languages"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisapatel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&layout=compact&langs_count=8&border_radius=10&card_width=445" alt="Top Languages"/>
 
 </div>
 
@@ -156,6 +156,20 @@ const developer = {
 - 🌈 Making the web more **accessible**
 
 <br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tisapatel/Tisapatel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tisapatel/Tisapatel/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tisapatel/Tisapatel/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
