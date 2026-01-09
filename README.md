@@ -161,20 +161,6 @@ const developer = {
 
 <div align="center">
 
-## 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tisapatel/Tisapatel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tisapatel/Tisapatel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tisapatel/Tisapatel/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/patel-tisa-003b512bb/">
@@ -197,7 +183,7 @@ const developer = {
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 <br><br>
 
@@ -219,6 +205,16 @@ const developer = {
 ```
 🎮 Gaming  |  🏀 Outdoor & Indoor Sports  |  ✈️ Traveling  |  📚 Tech Exploration  |  🎬 Watching Movies / Web Series  |  🌱 Learning New Skills
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 3D Contribution Calendar
+
+<img src="https://github.com/Tisapatel/Tisapatel/blob/output/github-contribution-3d.svg" alt="3D Contribution" width="100%"/>
 
 </div>
 
