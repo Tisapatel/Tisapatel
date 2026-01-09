@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12,18&height=200&section=header&text=Tisa%20Patel&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Tisa%20Patel&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20|%20MERN%20Stack&descSize=20&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Software+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Software+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Building+Beautiful+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -80,7 +80,7 @@ const developer = {
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tisapatel&theme=algolia&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tisapatel&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 
 </div>
 
@@ -90,10 +90,10 @@ const developer = {
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tisapatel&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tisapatel&theme=algolia&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tisapatel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tisapatel&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF006E&sideLabels=00D9FF&border_radius=10" alt="GitHub Streak"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisapatel&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisapatel&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&layout=compact&langs_count=8&border_radius=10&card_width=445" alt="Top Languages"/>
 
 </div>
 
@@ -103,7 +103,7 @@ const developer = {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisapatel&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true&custom_title=Tisa's%20Contribution%20Journey" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisapatel&bg_color=0d1117&color=ff006e&line=00d9ff&point=ff6b6b&area=true&hide_border=true&custom_title=Tisa's%20Contribution%20Journey&area_color=00d9ff" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -164,13 +164,13 @@ const developer = {
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/patel-tisa-003b512bb/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Tisapatel">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
 </a>
 <a href="mailto:tisapatel@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
 </a>
 
 <br><br>
@@ -183,12 +183,12 @@ const developer = {
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Random Dev Quote"/>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tisapatel&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Tisapatel?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/Tisapatel)
+![Profile Views](https://komarev.com/ghpvc/?username=Tisapatel&label=Profile%20Views&color=FF006E&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Tisapatel?style=for-the-badge&color=00D9FF&logo=github&labelColor=181717)](https://github.com/Tisapatel)
 
 </div>
 
@@ -230,4 +230,4 @@ const developer = {
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12,18&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer"/>
