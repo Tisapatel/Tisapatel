@@ -336,7 +336,7 @@ favorite_quote: "Any fool can write code that a computer can understand. Good pr
 <br>
 
 <!-- Replace with your actual repositories -->
-<table>
+<!-- <table>
 <tr>
 <td width="50%">
 <h3 align="center">🔥 Project Name 1</h3>
@@ -409,7 +409,7 @@ favorite_quote: "Any fool can write code that a computer can understand. Good pr
 </div>
 </td>
 </tr>
-</table>
+</table> -->
 
 <br>
 
